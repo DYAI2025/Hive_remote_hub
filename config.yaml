@@ -1,0 +1,7 @@
+port: 7880
+logging: true
+storage_path: ./logs
+voice_profiles:
+  hive: elevenlabs-ben.json
+  narion: elevenlabs-narion.json
+  dante: elevenlabs-dante.json

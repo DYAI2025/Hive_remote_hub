@@ -1,0 +1,9 @@
+projects:
+  - name: hive-caller
+    description: Voice-zu-GPT Interface mit Whisper und ElevenLabs
+    entrypoint: /apps/hive-caller
+    status: active
+agents:
+  - name: The Hive
+    role: Beobachter & Resonanz-Coordinator
+    endpoint: internal
